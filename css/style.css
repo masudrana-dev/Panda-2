@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+a.Buy-now {
+    text-decoration: none;
+    font-size: 22px;
+    color: #fff;
+    border: 1px solid purple;
+    background: purple;
+    padding: 10px 20px;
+    display: inline-block;
+    border-radius: 5px;
+}
